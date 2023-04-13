@@ -17,3 +17,11 @@ kind: Namespace
 metadata:
   name: bye
 # [END anthosconfig_quickstart_namespaces_hello_namespace] 
+
+
+# [START anthosconfig_quickstart_namespaces_hello_namespace] 
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: abc
+# [END anthosconfig_quickstart_namespaces_hello_namespace] 
